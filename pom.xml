@@ -11,6 +11,7 @@
     <modules>
         <module>buoi1/demoLogin</module>
         <module>buoi2/ViewDataWithStructs2</module>
+        <module>persistent/persistent</module>
     </modules>
     <dependencies>
         <dependency>

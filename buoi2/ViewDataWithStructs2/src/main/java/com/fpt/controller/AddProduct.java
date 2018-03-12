@@ -7,8 +7,8 @@ import com.fpt.persistent.ProductModel;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class AddProduct extends ActionSupport {
-    public String action;
-    public Product product;
+    private String action;
+    private Product product;
 
     public Product getProduct() {
         return product;

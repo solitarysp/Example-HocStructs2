@@ -10,13 +10,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ViewDataWithStructs2</artifactId>
-    <packaging>war</packaging>
+    <artifactId>persistent</artifactId>
     <dependencies>
         <dependency>
-            <groupId>com.fpt</groupId>
-            <artifactId>persistent</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.40</version>
         </dependency>
     </dependencies>
+
 </project>
